@@ -783,7 +783,7 @@ cat!state
 
 ### Q9：我被機器人禁止使用了怎麼辦？
 
-這表示你違反了[服務條款](https://hackmd.io/@milk120106/ERasJWbcTYycNvOaea39Ng)，機器人已將你列入黑名單。
+這表示你違反了[服務條款](./Cat%20Translator%20服務條款%20v1.5.5.md)或[使用規則](./Cat%20Translator%20使用規則%20v1.5.5.md)，機器人已將你列入黑名單。
 
 使用任何斜線指令時都會顯示處分說明（黑名單原因、方式、期限、能否申訴）。
 
@@ -809,7 +809,7 @@ cat!state
 
 ### Q13：如何查看機器人的隱私權政策？
 
-[隱私權政策](https://hackmd.io/@milk120106/B1KqLe4cfe)
+請參閱 [Cat Translator 隱私權政策 v1.5.5](./Cat%20Translator%20隱私權政策%20v1.5.5.md)。
 
 ---
 
@@ -1070,7 +1070,7 @@ milk（ID：1317882602392260632）
 
 ## 十二、違規處分
 
-違反[服務條款](https://hackmd.io/@milk120106/ERasJWbcTYycNvOaea39Ng)的使用者，會被列入機器人黑名單並禁止使用機器人。
+違反[服務條款](./Cat%20Translator%20服務條款%20v1.5.5.md)與[使用規則](./Cat%20Translator%20使用規則%20v1.5.5.md)的使用者，會被列入機器人黑名單並禁止使用機器人。
 
 ### 12.1 處分方式
 
