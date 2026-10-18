@@ -27,4 +27,3 @@ Cat Translator 貓語翻譯機器人的官方介紹、使用教學與相關規�
 
 - **官方 Discord 支援群**：https://discord.gg/AR2ASpG254
 - **邀請機器人**：https://discord.com/oauth2/authorize?client_id=1550870394150457515
-- **機器人主程式儲存庫**：https://github.com/milk120106/Cat-Translator
