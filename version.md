@@ -25,7 +25,7 @@
   - 新增 /快問快答 排行榜（答對次數、答錯次數、舉辦次數）。
   - 新增 /快問快答 設定 全域/伺服器/個人 多層級預設設定。
   - 選擇題選項上限大幅擴充至最多 20 個（A～T）。
-* 支援 Cloudflare Workers 邊緣心跳監控：機器人背景每 30 秒向 Cloudflare Workers 節點發送加密心跳包，由邊緣 Serverless 架構搭配 Workers KV 實現外部離線偵測，異常失聯自動觸發 Discord Webhook 警報，並於獨立私人倉庫維護部署套件。
+* 支援 Cloudflare Workers 邊緣心跳監控：機器人背景每 60 秒向 Cloudflare Workers 節點發送加密心跳包，由邊緣 Serverless 架構搭配 Workers KV 實現外部離線偵測，異常失聯自動觸發 Discord Webhook 警報，並於獨立私人倉庫維護部署套件。
 ```
 
 - 修復
